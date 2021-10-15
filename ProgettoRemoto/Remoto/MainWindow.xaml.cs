@@ -22,6 +22,7 @@ namespace Remoto
     {
         public MainWindow()
         {
+            DateTime now = DateTime.Now;
             InitializeComponent();
         }
     }
