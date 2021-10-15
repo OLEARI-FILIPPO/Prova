@@ -10,7 +10,7 @@
         <DockPanel>
             <Label VerticalAlignment="Center" HorizontalAlignment="Center">content</Label>
             <Label VerticalContentAlignment="Bottom" HorizontalAlignment="Center" VerticalAlignment="Center">content</Label>
-            <Button Content="Cliccami" FontSize="72"></Button>
+            <Button Content="Cliccami" FontSize="72" VerticalAlignment="Center"></Button>
         </DockPanel>
     </Grid>
 </Window>
