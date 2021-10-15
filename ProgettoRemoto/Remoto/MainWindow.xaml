@@ -7,6 +7,10 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-
+        <DockPanel>
+            <Label VerticalAlignment="Center" HorizontalAlignment="Center">content</Label>
+            <Label VerticalContentAlignment="Bottom" HorizontalAlignment="Center" VerticalAlignment="Center">content</Label>
+            <Button Content="Bottone"></Button>
+        </DockPanel>
     </Grid>
 </Window>
